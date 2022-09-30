@@ -292,8 +292,8 @@ hl.plugins.gitgutter = {
 
 hl.plugins.hop = {
     HopNextKey = {fg = c.red, fmt = "bold"},
-    HopNextKey1 = {fg = c.cyan, fmt = "bold"},
-    HopNextKey2 = {fg = util.darken(c.blue, 0.7)},
+    HopNextKey1 = {fg = c.yellow, fmt = "bold"},
+    HopNextKey2 = {fg = util.darken(c.yellow, 0.8)},
     HopUnmatched = colors.Grey,
 }
 
